@@ -1,0 +1,632 @@
+2023-08-18 11:54:04,804 - logger - INFO - Skaiciuotuvo programa paleista
+2023-08-18 11:56:22,564 - logger - INFO - Skaiciuotuvo programa paleista
+2023-08-18 13:05:44,518 - logger - INFO - Skaiciuotuvo programa paleista
+2023-08-18 13:07:18,545 - logger - INFO - Skaiciuotuvo programa paleista
+2023-08-18 13:07:20,851 - logger - ERROR - Klaida atliekant veiksmus
+2023-08-18 13:07:57,388 - logger - INFO - Skaiciuotuvo programa paleista
+2023-08-18 13:07:59,497 - logger - ERROR - Klaida atliekant veiksmus
+2023-08-18 13:11:26,539 - logger - INFO - Skaiciuotuvo programa paleista
+2023-08-18 13:11:27,998 - logger - INFO - Operacija: +
+2023-08-18 13:11:35,927 - logger - ERROR - Klaida atliekant veiksmus
+2023-08-18 13:11:39,697 - logger - INFO - Operacija: +
+2023-08-18 13:11:45,524 - logger - ERROR - Klaida atliekant veiksmus
+2023-08-18 13:11:47,527 - logger - INFO - Operacija: +
+2023-08-18 13:11:48,578 - logger - ERROR - Klaida atliekant veiksmus
+2023-08-18 13:12:17,187 - logger - INFO - Skaiciuotuvo programa paleista
+2023-08-18 13:12:29,929 - logger - INFO - Operacija: +
+2023-08-18 13:12:30,991 - logger - ERROR - Klaida atliekant veiksmus
+2023-08-18 13:12:32,872 - logger - INFO - Operacija: +
+2023-08-18 13:15:42,766 - logger - INFO - Skaiciuotuvo programa paleista
+2023-08-18 13:15:44,279 - logger - INFO - Operacija: +
+2023-08-18 13:15:45,833 - logger - ERROR - Klaida atliekant veiksmus
+2023-08-18 13:17:15,556 - logger - INFO - Skaiciuotuvo programa paleista
+2023-08-18 13:17:17,015 - logger - INFO - Operacija: +
+2023-08-18 13:17:18,728 - logger - INFO - Operacija: +
+2023-08-18 13:17:21,812 - logger - ERROR - Klaida atliekant veiksmus
+2023-08-21 09:43:47,008 - logger - INFO - Skaiciuotuvo programa paleista
+2023-08-21 13:13:41,439 - calculator_logger - INFO - Skaiciuotuvas paleistas
+2023-08-21 13:13:51,663 - calculator_logger - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 13:16:33,270 - calculator_logger - INFO - Skaiciuotuvas paleistas
+2023-08-21 13:16:37,463 - calculator_logger - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 13:22:52,298 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 13:22:56,066 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 13:27:56,666 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 13:28:04,447 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: 
+2023-08-21 13:28:25,068 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 13:28:27,863 - Skaiciuotuvo loggeris - ERROR - f Klaida: {ZeroDivisionError}
+2023-08-21 13:28:36,448 - Skaiciuotuvo loggeris - ERROR - f Klaida: {ZeroDivisionError}
+2023-08-21 13:28:50,863 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 13:28:53,621 - Skaiciuotuvo loggeris - ERROR - f Klaida: {ZeroDivisionError}
+2023-08-21 13:29:24,877 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 13:29:27,556 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 13:32:19,941 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 13:32:23,393 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 13:34:21,130 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 13:34:24,243 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 13:34:24,243 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 13:36:55,824 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 13:36:59,150 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 13:36:59,151 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 13:51:34,458 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 13:51:34,459 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 13:55:44,452 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 13:55:47,187 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 13:55:47,187 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 13:56:10,471 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 13:56:12,757 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 13:56:12,758 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 13:56:54,797 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 13:56:57,975 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 13:56:57,975 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 13:57:07,965 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 13:57:20,620 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 13:57:20,620 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 13:58:00,372 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 13:58:03,532 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 13:58:03,532 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 13:58:16,621 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 13:58:16,621 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 13:58:22,019 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 13:58:26,471 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 13:58:26,471 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 14:03:32,743 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 14:03:35,021 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 14:03:35,022 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 14:04:56,898 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 14:04:59,588 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 14:04:59,588 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 14:05:48,830 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 14:05:51,381 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 14:05:51,381 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 14:06:02,763 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 14:06:04,766 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 14:06:04,766 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 14:09:15,135 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 14:09:18,762 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 14:09:18,763 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+2023-08-21 14:09:36,592 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 14:09:38,685 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 14:14:04,558 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 14:14:07,284 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 14:14:07,285 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+Traceback (most recent call last):
+  File "C:\Users\rok.fab\PycharmProjects\baigiamasis\calculator.py", line 136, in atlikti_veiksmus
+    raise ZeroDivisionError("Dalyba iš nulio negalima")
+ZeroDivisionError: Dalyba iš nulio negalima
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rok.fab\PycharmProjects\baigiamasis\calculator.py", line 71, in mygtuko_paspaudimas
+    rezultatas = self.atlikti_veiksmus(self.skaiciu_seka)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rok.fab\PycharmProjects\baigiamasis\calculator.py", line 141, in atlikti_veiksmus
+    raise Exception("Klaida atliekant veiksmus")
+Exception: Klaida atliekant veiksmus
+2023-08-21 14:15:15,619 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 14:15:18,133 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: float division by zero
+2023-08-21 14:15:18,133 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+Traceback (most recent call last):
+  File "C:\Users\rok.fab\PycharmProjects\baigiamasis\calculator.py", line 137, in atlikti_veiksmus
+    rezultatas /= skaicius
+ZeroDivisionError: float division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rok.fab\PycharmProjects\baigiamasis\calculator.py", line 71, in mygtuko_paspaudimas
+    rezultatas = self.atlikti_veiksmus(self.skaiciu_seka)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rok.fab\PycharmProjects\baigiamasis\calculator.py", line 141, in atlikti_veiksmus
+    raise Exception("Klaida atliekant veiksmus")
+Exception: Klaida atliekant veiksmus
+2023-08-21 14:15:34,685 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 14:15:37,609 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: float division by zero
+2023-08-21 14:15:37,610 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+Traceback (most recent call last):
+  File "C:\Users\rok.fab\PycharmProjects\baigiamasis\calculator.py", line 137, in atlikti_veiksmus
+    rezultatas /= skaicius
+ZeroDivisionError: float division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rok.fab\PycharmProjects\baigiamasis\calculator.py", line 71, in mygtuko_paspaudimas
+    rezultatas = self.atlikti_veiksmus(self.skaiciu_seka)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rok.fab\PycharmProjects\baigiamasis\calculator.py", line 141, in atlikti_veiksmus
+    raise Exception("Klaida atliekant veiksmus")
+Exception: Klaida atliekant veiksmus
+2023-08-21 14:19:00,771 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 14:19:02,811 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 14:19:02,811 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+Traceback (most recent call last):
+  File "C:\Users\rok.fab\PycharmProjects\baigiamasis\calculator.py", line 135, in atlikti_veiksmus
+    raise ZeroDivisionError("Dalyba iš nulio negalima")
+ZeroDivisionError: Dalyba iš nulio negalima
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rok.fab\PycharmProjects\baigiamasis\calculator.py", line 71, in mygtuko_paspaudimas
+    rezultatas = self.atlikti_veiksmus(self.skaiciu_seka)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rok.fab\PycharmProjects\baigiamasis\calculator.py", line 140, in atlikti_veiksmus
+    raise Exception("Klaida atliekant veiksmus")
+Exception: Klaida atliekant veiksmus
+2023-08-21 14:20:38,666 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 14:20:38,667 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+Traceback (most recent call last):
+  File "C:\Users\rok.fab\PycharmProjects\baigiamasis\calculator.py", line 135, in atlikti_veiksmus
+    raise ZeroDivisionError("Dalyba iš nulio negalima")
+ZeroDivisionError: Dalyba iš nulio negalima
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rok.fab\PycharmProjects\baigiamasis\calculator.py", line 71, in mygtuko_paspaudimas
+    rezultatas = self.atlikti_veiksmus(self.skaiciu_seka)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rok.fab\PycharmProjects\baigiamasis\calculator.py", line 140, in atlikti_veiksmus
+    raise Exception("Klaida atliekant veiksmus")
+Exception: Klaida atliekant veiksmus
+2023-08-21 14:20:45,639 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 14:20:47,887 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 14:20:47,887 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Klaida atliekant veiksmus
+Traceback (most recent call last):
+  File "C:\Users\rok.fab\PycharmProjects\baigiamasis\calculator.py", line 135, in atlikti_veiksmus
+    raise ZeroDivisionError("Dalyba iš nulio negalima")
+ZeroDivisionError: Dalyba iš nulio negalima
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rok.fab\PycharmProjects\baigiamasis\calculator.py", line 71, in mygtuko_paspaudimas
+    rezultatas = self.atlikti_veiksmus(self.skaiciu_seka)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rok.fab\PycharmProjects\baigiamasis\calculator.py", line 140, in atlikti_veiksmus
+    raise Exception("Klaida atliekant veiksmus")
+Exception: Klaida atliekant veiksmus
+2023-08-21 14:24:03,087 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 14:24:05,959 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 14:24:23,608 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 14:24:26,089 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 14:24:52,621 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 14:25:01,077 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: '3...2'
+2023-08-21 14:29:59,509 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 14:30:02,028 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 14:31:20,276 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 14:31:23,198 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 14:31:30,420 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: '/'
+2023-08-21 14:31:41,005 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: ''
+2023-08-21 14:32:10,942 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 14:32:13,225 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 14:32:22,941 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: '3..3'
+2023-08-21 14:33:38,825 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 14:35:59,760 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 15:39:21,972 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 15:40:07,301 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 15:40:49,839 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 15:42:42,450 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:13:27,780 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:14:34,008 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:15:12,088 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:15:15,840 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 16:16:06,731 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:22:41,532 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:22:41,629 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:22:41,629 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:22:41,729 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:22:41,729 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:22:41,729 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,045 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,045 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 16:25:02,147 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,147 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,244 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,244 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,244 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,337 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,337 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,337 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,337 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,430 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,430 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,430 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,430 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,430 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,524 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,524 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,524 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,524 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,524 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:25:02,524 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:07,510 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:07,511 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 16:29:07,611 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:07,611 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:07,707 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:07,707 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:07,707 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:07,806 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:07,806 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:07,806 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:07,806 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:07,911 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:07,911 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:07,911 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:07,911 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:07,911 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:08,014 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:08,014 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:08,014 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:08,014 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:08,014 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:29:08,014 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,265 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,265 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 16:32:27,366 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,366 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,458 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,458 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,458 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,552 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,552 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,552 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,552 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,647 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,647 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,647 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,647 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,647 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,739 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,739 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,739 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,739 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,739 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:32:27,739 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,050 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,051 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 16:34:38,158 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,158 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,255 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,255 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,255 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,356 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,356 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,356 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,356 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,458 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,458 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,458 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,458 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,458 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,562 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,562 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,562 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,562 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,562 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:34:38,562 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,232 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,232 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 16:35:58,336 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,336 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,432 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,432 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,432 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,533 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,533 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,533 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,533 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,634 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,634 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,634 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,634 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,634 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,733 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,733 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,733 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,733 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,733 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:35:58,733 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:11,915 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:11,916 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 16:36:12,016 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,016 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,110 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,110 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,110 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,203 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,203 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,203 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,203 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,295 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,295 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,295 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,295 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,295 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,391 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,391 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,391 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,391 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,391 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:36:12,391 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:17,043 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:17,043 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 16:38:30,956 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:30,956 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 16:38:31,048 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,048 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,142 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,142 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,142 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,238 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,238 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,238 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,238 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,335 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,335 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,335 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,335 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,335 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,432 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,432 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,432 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,432 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,432 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:38:31,432 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:40:32,187 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:40:32,287 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:40:32,287 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:40:32,397 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:40:32,397 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:40:32,397 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:40:32,505 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:40:32,505 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:40:32,505 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:40:32,505 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:40:32,606 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:40:32,606 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:40:32,606 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:40:32,606 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:40:32,606 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:43,953 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:43,953 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 16:41:44,055 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,055 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,152 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,152 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,152 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,251 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,251 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,251 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,251 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,354 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,354 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,354 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,354 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,354 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,458 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,458 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,458 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,458 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,458 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,458 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,557 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,557 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,557 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,557 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,557 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,557 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,557 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,655 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,655 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,655 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,655 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,655 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,655 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,655 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,655 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,746 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,746 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,746 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,746 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,746 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,746 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,746 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,746 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:41:44,746 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:16,736 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,050 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,051 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 16:42:31,151 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,151 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,243 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,243 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,243 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,339 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,339 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,339 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,339 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,433 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,433 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,433 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,433 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,433 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,526 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,526 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,526 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,526 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,526 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,526 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,618 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,618 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,618 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,618 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,618 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,618 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,618 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,712 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,712 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,712 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,712 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,712 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,712 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,712 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,712 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,807 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,807 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,807 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,807 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,807 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,807 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,807 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,807 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:42:31,807 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:43:18,847 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 16:43:58,698 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 18:33:21,702 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 18:33:36,021 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 18:33:50,477 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: '+'
+2023-08-21 18:34:41,135 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 18:44:20,800 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 18:44:34,970 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 18:44:52,652 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 18:46:59,537 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 18:47:03,705 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: ''
+2023-08-21 18:52:31,171 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 18:53:01,057 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 18:53:18,514 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 18:55:52,908 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 18:57:38,217 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 18:57:45,156 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: ''
+2023-08-21 19:10:17,423 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:10:49,149 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:11:17,979 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:11:43,018 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: ''
+2023-08-21 19:11:51,092 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: ''
+2023-08-21 19:12:01,652 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: ''
+2023-08-21 19:15:14,479 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:15:17,096 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 19:15:26,726 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:15:30,104 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 19:15:38,734 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:15:42,654 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: ''
+2023-08-21 19:15:43,175 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: 'None'
+2023-08-21 19:15:43,373 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: 'None'
+2023-08-21 19:24:52,303 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,303 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 19:24:52,474 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,474 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,628 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,628 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,628 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,749 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,749 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,749 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,749 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,874 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,874 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,874 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,874 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,874 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,997 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,997 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,997 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,997 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,997 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:52,997 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,124 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,124 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,124 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,124 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,124 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,124 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,124 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,248 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,248 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,248 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,248 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,248 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,248 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,248 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,248 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,371 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,371 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,371 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,371 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,371 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,371 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,371 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,371 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:24:53,371 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:19,560 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:25,818 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:31,620 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:31,620 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-21 19:25:31,789 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:31,789 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:31,941 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:31,941 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:31,941 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,096 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,096 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,096 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,096 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,266 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,266 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,266 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,266 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,266 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,439 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,439 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,439 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,439 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,439 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,439 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,598 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,598 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,598 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,598 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,598 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,598 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,598 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,765 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,765 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,765 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,765 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,765 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,765 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,765 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,765 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,927 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,927 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,927 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,927 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,927 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,927 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,927 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,927 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:25:32,927 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:28:38,556 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:29:29,571 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:30:20,124 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:30:25,189 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: '+'
+2023-08-21 19:30:32,391 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: '+'
+2023-08-21 19:31:25,001 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:32:29,187 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:34:47,014 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:34:55,486 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: ''
+2023-08-21 19:36:04,056 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:36:24,828 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:36:43,373 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-21 19:36:46,997 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: list index out of range
+2023-08-21 19:36:51,597 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: ''
+2023-08-22 15:21:52,114 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: ''
+2023-08-22 15:21:59,002 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: ''
+2023-08-22 15:46:03,586 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: ''
+2023-08-22 16:34:35,419 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: ''
+2023-08-23 11:15:36,510 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: ''
+2023-08-23 11:15:51,610 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: '+'
+2023-08-23 12:04:34,321 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
+2023-08-23 13:04:02,356 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
