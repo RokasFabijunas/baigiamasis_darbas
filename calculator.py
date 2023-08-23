@@ -2,7 +2,6 @@ import logging
 import tkinter as tk
 from tkinter import scrolledtext
 
-import database
 from database import init_db, saugoti_skaiciavima, gauti_istorija
 
 class Skaiciuotuvas:
