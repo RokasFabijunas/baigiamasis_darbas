@@ -61,9 +61,6 @@ class Skaiciuotuvas:
             self.ivedimo_laukas.insert(tk.END, verte)
             self.ivedimo_laukas.configure(state='disabled')
         elif verte == "." and "." not in current:
-            if self.rodyti_rezultata:
-                self.ivedimo_laukas.delete(0, tk.END)
-                self.rodyti_rezultata = False
             self.ivedimo_laukas.configure(state='normal')
             self.ivedimo_laukas.insert(tk.END, verte)
             self.ivedimo_laukas.configure(state='disabled')
@@ -77,7 +74,6 @@ class Skaiciuotuvas:
             self.skaiciu_seka.append(current)
             seka_string = ' '.join(self.skaiciu_seka)
             rezultatas = self.atlikti_veiksmus(self.skaiciu_seka)
-            self.skaiciu_seka = [str(rezultatas)]
             self.ivedimo_laukas.configure(state='normal')
             self.ivedimo_laukas.delete(0, tk.END)
             self.ivedimo_laukas.configure(state='disabled')
@@ -113,13 +109,7 @@ class Skaiciuotuvas:
                 else:
                     self.ivedimo_laukas.configure(state='normal')
                     self.ivedimo_laukas.insert(0, "-")
-                self.ivedimo_laukas.configure(state='disabled')
-            elif self.rodyti_rezultata:
-                self.ivedimo_laukas.configure(state='normal')
-                self.ivedimo_laukas.delete(0, tk.END)
-                self.ivedimo_laukas.insert(0, "-")
-                self.ivedimo_laukas.configure(state='disabled')
-                self.rodyti_rezultata = False
+                    self.ivedimo_laukas.configure(state='disabled')
             else:
                 self.rezultato_laukas.config(text="Pirmiausiai iveskite skaiciu")
 

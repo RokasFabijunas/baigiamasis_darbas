@@ -630,3 +630,7 @@ Exception: Klaida atliekant veiksmus
 2023-08-23 11:15:51,610 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: '+'
 2023-08-23 12:04:34,321 - Skaiciuotuvo loggeris - INFO - Skaiciuotuvas paleistas
 2023-08-23 13:04:02,356 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
+2023-08-24 10:12:16,393 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: ''
+2023-08-24 10:17:53,184 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: '+'
+2023-08-24 10:18:00,286 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: could not convert string to float: '+'
+2023-08-24 10:53:45,999 - Skaiciuotuvo loggeris - ERROR - Ivyko klaida: Dalyba iš nulio negalima
