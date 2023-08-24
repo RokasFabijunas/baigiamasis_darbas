@@ -35,7 +35,6 @@ class Skaiciuotuvas:
         self.rezultato_laukas.grid(row=0, column=0, columnspan=4)
     #sukuriu tuscia lista kuriame laikomi ivesti skaiciai ir matematiniai veiksmai.
         self.skaiciu_seka = []
-        self.rodyti_rezultata = False
     #sukuriam klaidu loggeri su jo parametrais
         self.logger = logging.getLogger("Skaiciuotuvo loggeris")
         self.logger.setLevel(logging.DEBUG)
@@ -83,7 +82,6 @@ class Skaiciuotuvas:
                 self.rezultato_laukas.config(text=f"Rezultatas: {int(rezultatas)}")
             else:
                 self.rezultato_laukas.config(text=f"Rezultatas: {rezultatas:.2f}")
-            self.rodyti_rezultata = True
         elif verte == "C":
             self.rezultato_laukas.config(text="")
             self.ivedimo_laukas.configure(state='normal')
